@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1, فيديو بطاطس
 https://github.com/daya969/batatas-tv/releases/download/v1/batatas.mp4
+
+#EXTINF:-1, Video 2
+https://www.youtube.com/watch?v=PSa0ec93uyU
+
+#EXTINF:-1, Video 3
+https://www.youtube.com/watch?v=LR_EgR83a6U
+
+#EXTINF:-1, Video 4
+https://www.youtube.com/watch?v=Jt8xg0VD7bU
+
+#EXTINF:-1, Video 5
+https://www.youtube.com/watch?v=lrmjcgTaCeo
+
+#EXTINF:-1, Video 6
+https://www.youtube.com/watch?v=u_D2cbA_yHU
+
+#EXTINF:-1, Video 7
+https://www.youtube.com/watch?v=nGMHcEF6FV0
